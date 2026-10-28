@@ -1,0 +1,8 @@
+google-genai
+pinecone
+python-dotenv
+pypdf
+python-docx
+openpyxl
+flask
+requests
